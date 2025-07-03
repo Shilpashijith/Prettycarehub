@@ -1,0 +1,32 @@
+#```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>PrettyCare Hub</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    body { font-family: sans-serif; background: #fff0f5; color: #333; margin: 0; padding: 0; }
+    header { background: #ffb6c1; padding: 20px; text-align: center; font-size: 2em; color: #4a0033; }
+    section { padding: 20px; max-width: 700px; margin: auto; }
+    h2 { color: #ad1457; border-bottom: 2px solid #f8bbd0; }
+    ul { padding-left: 20px; }
+    li { margin-bottom: 10px; }
+    footer { text-align: center; padding: 20px; font-size: 0.9em; color: #777; }
+    a { color: #ad1457; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <header>PrettyCare Hub</header>
+  <section>
+    <h2>Products</h2>
+    <ul>
+      <li>Whisper Pads – ₹15</li>
+      <li>Livon Serum – ₹230</li>
+      <li>Face Wash – ₹160</li>
+      <li>Aloe Vera Gel – ₹180</li>
+    </ul>
+  </section>
+  <section>
+    <h2>Order Now</h2> Prettycarehub
